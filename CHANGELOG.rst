@@ -2,6 +2,11 @@
 Changelog for package camera_control_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.2.2 (2024-03-13)
+------------------
+* Upgrade CMake version
+* Added support for catkin_lint
+
 0.2.1 (2019-03-13)
 ------------------
 * Cleanup CMakelists.txt
